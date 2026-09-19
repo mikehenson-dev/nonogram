@@ -11,7 +11,7 @@ print("ARCALAS, MIKE HENSON D.\t\tCITCS 1E")
 
 # Title of the activity, roughly centered above the grid.
 # \n at the end leaves one empty line after the title.
-print("\tLab Activity 01: Nonogram Puzzle\n")
+print("Lab Activity 01: Nonogram Puzzle\n")
 
 # ------------------------------------------------------------
 # BLANK GRID
