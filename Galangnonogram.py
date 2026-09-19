@@ -1,13 +1,13 @@
 # ============================================================
 # Lab Activity 01: Nonogram Puzzle
-# Name    : GALANG, LANCE NAHUM B.
-# Section : CITCS 1Z
+# Name    : ARCALAS, MIKE HENSON D.
+# Section : CITCS 1E
 # Legend  : .  = blank space      X = solid square
 # ============================================================
 
 # Name on the left, section on the right.
 # \t inserts a wide blank space to push the section to the right side.
-print("GALANG, LANCE NAHUM B.\t\tCITCS 1B")
+print("ARCALAS, MIKE HENSON D.\t\tCITCS 1E")
 
 # Title of the activity, roughly centered above the grid.
 # \n at the end leaves one empty line after the title.
